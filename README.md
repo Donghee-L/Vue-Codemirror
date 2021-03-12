@@ -4,7 +4,7 @@
 
 ## Project Img
 
-> white mode && Dark mode
+> light mode && Dark mode
 
 <img src="README/image-20210312222833911.png" height="600px"><img src="README/image-20210312223012041.png" height="600px">
 
