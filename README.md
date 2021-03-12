@@ -2,23 +2,23 @@
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
+### install marked
 ```
-yarn build
+# 내가 설치했던 것들
+npm install lodash
+npm install marked --save-dev
+npm install vue-code-highlight --save
+npm install vue-codemirror --save
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
